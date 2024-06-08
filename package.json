@@ -1,0 +1,14 @@
+{
+  "name": "pokemon-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"cd world-building && npm run dev\" \"cd server && nodemon index.js\""
+  },
+  "author": "trickyflame11",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

@@ -1,0 +1,1388 @@
+[
+  {
+    "pkmn": "Venonat",
+    "stage": 1,
+    "lineup": "Venonat",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Venomoth",
+    "stage": 2,
+    "lineup": "Venonat",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Nincada",
+    "stage": 1,
+    "lineup": "Nincada",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Ninjask",
+    "stage": 2,
+    "lineup": "Nincada",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Shedinja",
+    "stage": 2,
+    "lineup": "Nincada",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Burmy",
+    "stage": 0,
+    "lineup": "Burmy",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Wormadam",
+    "stage": 1,
+    "lineup": "Burmy",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Mothim",
+    "stage": 2,
+    "lineup": "Burmy",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Cutiefly",
+    "stage": 0,
+    "lineup": "Cutiefly",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Ribombee",
+    "stage": 1,
+    "lineup": "Cutiefly",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Pineco",
+    "stage": 0,
+    "lineup": "Pineco",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Forretress",
+    "stage": 1,
+    "lineup": "Forretress",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Surskit",
+    "stage": 0,
+    "lineup": "Surskit",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Masquerain",
+    "stage": 1,
+    "lineup": "Masquerain",
+    "cat": "omni",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Venipede",
+    "stage": 1,
+    "lineup": "Venipede",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Whirlipede",
+    "stage": 2,
+    "lineup": "Whirlipede",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Scolipede",
+    "stage": 3,
+    "lineup": "Scolipede",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Grubbin",
+    "stage": 1,
+    "lineup": "Grubbin",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Charjabug",
+    "stage": 2,
+    "lineup": "Grubbin",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Vikavolt",
+    "stage": 3,
+    "lineup": "Grubbin",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Scyther",
+    "stage": 1,
+    "lineup": "Scyther",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Scizor",
+    "stage": 1,
+    "lineup": "Scyther",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Joltik",
+    "stage": 0,
+    "lineup": "Joltik",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Galvantula",
+    "stage": 2,
+    "lineup": "Galvantula",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Exeggcute",
+    "stage": 0,
+    "lineup": "Exeggcute",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Exeggutor",
+    "stage": 1,
+    "lineup": "Exeggcute",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Tropius",
+    "stage": 1,
+    "lineup": "Tropius",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Paras",
+    "stage": 0,
+    "lineup": "Paras",
+    "cat": "omni",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Parasect",
+    "stage": 1,
+    "lineup": "Paras",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Morelull",
+    "stage": 0,
+    "lineup": "Morelull",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Shiinotic",
+    "stage": 1,
+    "lineup": "Morelull",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Carnivine",
+    "stage": 1,
+    "lineup": "Carnivine",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Farfetchd",
+    "stage": 1,
+    "lineup": "Farfetchd",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Delibird",
+    "stage": 1,
+    "lineup": "Delibird",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Lotad",
+    "stage": 0,
+    "lineup": "Lotad",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Lombre",
+    "stage": 1,
+    "lineup": "Lotad",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Ludicolo",
+    "stage": 2,
+    "lineup": "Lotad",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Cacturne",
+    "stage": 2,
+    "lineup": "Cacturne",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Cherubi",
+    "stage": 1,
+    "lineup": "Cherubi",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Maractus",
+    "stage": 1,
+    "lineup": "Maractus",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Bounsweet",
+    "stage": 0,
+    "lineup": "Bounsweet",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Steenee",
+    "stage": 1,
+    "lineup": "Bounsweet",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Tsareena",
+    "stage": 2,
+    "lineup": "Bounsweet",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Hoppip",
+    "stage": 0,
+    "lineup": "Hoppip",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Skiploom",
+    "stage": 1,
+    "lineup": "Hoppip",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Jumpluff",
+    "stage": 2,
+    "lineup": "Hoppip",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Sunkern",
+    "stage": 0,
+    "lineup": "Sunkern",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Sunflora",
+    "stage": 1,
+    "lineup": "Sunkern",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Cottonee",
+    "stage": 0,
+    "lineup": "Cottonee",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Whimsicott",
+    "stage": 1,
+    "lineup": "Cottonee",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Petilil",
+    "stage": 0,
+    "lineup": "altaria",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Lilligant",
+    "stage": 1,
+    "lineup": "Petilil",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Comfey",
+    "stage": 1,
+    "lineup": "Comfey",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Psyduck",
+    "stage": 3,
+    "lineup": "Psyduck",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Golduck",
+    "stage": 2,
+    "lineup": "Psyduck",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Murkrow",
+    "stage": 1,
+    "lineup": "Murkrow",
+    "cat": "omni",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Taillow",
+    "stage": 1,
+    "lineup": "slowking",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Swablu",
+    "stage": 1,
+    "lineup": "Swablu",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Altaria",
+    "stage": 2,
+    "lineup": "Altaria",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Hoothoot",
+    "stage": 1,
+    "lineup": "Hoothoot",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Honchkrow",
+    "stage": 2,
+    "lineup": "Honchkrow",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Chatot",
+    "stage": 1,
+    "lineup": "Chatot",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Pidove",
+    "stage": 0,
+    "lineup": "Pidove",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Tranquill",
+    "stage": 1,
+    "lineup": "Pidove",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Unfezant",
+    "stage": 2,
+    "lineup": "Pidove",
+    "cat": "omni",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Rufflet",
+    "stage": 1,
+    "lineup": "Rufflet",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Noctowl",
+    "stage": 2,
+    "lineup": "Noctowl",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Skarmory",
+    "stage": 1,
+    "lineup": "Skarmory",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Swellow",
+    "stage": 2,
+    "lineup": "Swellow",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Braviary",
+    "stage": 2,
+    "lineup": "Braviary",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Whiscash",
+    "stage": 2,
+    "lineup": "venomoth",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Magikarp",
+    "stage": 0,
+    "lineup": "Magikarp",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Remoraid",
+    "stage": 0,
+    "lineup": "Remoraid",
+    "cat": "omni",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Carvanha",
+    "stage": 1,
+    "lineup": "Carvanha",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Barboach",
+    "stage": 1,
+    "lineup": "Barboach",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Basculin",
+    "stage": 1,
+    "lineup": "Basculin",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Krabby",
+    "stage": 1,
+    "lineup": "Krabby",
+    "cat": "omni",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Kingler",
+    "stage": 2,
+    "lineup": "Krabby",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Corphish",
+    "stage": 1,
+    "lineup": "Corphish",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Crawdaunt",
+    "stage": 2,
+    "lineup": "Corphish",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Dewpider",
+    "stage": 1,
+    "lineup": "Dewpider",
+    "cat": "omni",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Araquanid",
+    "stage": 0,
+    "lineup": "Dewpider",
+    "cat": "omni",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Mantine",
+    "stage": 1,
+    "lineup": "Mantine",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Chinchou",
+    "stage": 0,
+    "lineup": "Chinchou",
+    "cat": "omni",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Lanturn",
+    "stage": 1,
+    "lineup": "Chinchou",
+    "cat": "omni",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Qwilfish",
+    "stage": 1,
+    "lineup": "Qwilfish",
+    "cat": "omni",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Mantyke",
+    "stage": 0,
+    "lineup": "Mantyke",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Sharpedo",
+    "stage": 2,
+    "lineup": "Sharpedo",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Jellicent",
+    "stage": 2,
+    "lineup": "Jellicent",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Frillish",
+    "stage": 1,
+    "lineup": "Jellicent",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Horsea",
+    "stage": 0,
+    "lineup": "Horsea",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Seadra",
+    "stage": 1,
+    "lineup": "Horsea",
+    "cat": "omni",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Lapras",
+    "stage": 1,
+    "lineup": "Lapras",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Corsola",
+    "stage": 1,
+    "lineup": "Corsola",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Kingdra",
+    "stage": 2,
+    "lineup": "Kingdra",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Pyukumuku",
+    "stage": 1,
+    "lineup": "Pyukumuku",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Clamperl",
+    "stage": 1,
+    "lineup": "hippopotas",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Gyarados",
+    "stage": 1,
+    "lineup": "Gyarados",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Huntail",
+    "stage": 2,
+    "lineup": "Huntail",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Gorebyss",
+    "stage": 2,
+    "lineup": "Gorebyss",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Tynamo",
+    "stage": 1,
+    "lineup": "Tynamo",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Eelektrik",
+    "stage": 2,
+    "lineup": "Tynamo",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Eelektross",
+    "stage": 3,
+    "lineup": "Tynamo",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Tentacool",
+    "stage": 1,
+    "lineup": "Tentacool",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Tentacruel",
+    "stage": 2,
+    "lineup": "Tentacool",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Octillery",
+    "stage": 2,
+    "lineup": "Octillery",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Stantler",
+    "stage": 1,
+    "lineup": "Stantler",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Deerling",
+    "stage": 1,
+    "lineup": "Deerling",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Sawsbuck",
+    "stage": 2,
+    "lineup": "Deerling",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Ponyta",
+    "stage": 1,
+    "lineup": "Ponyta",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Rapidash",
+    "stage": 2,
+    "lineup": "Ponyta",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Blitzle",
+    "stage": 1,
+    "lineup": "Blitzle",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Zebstrika",
+    "stage": 2,
+    "lineup": "Blitzle",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Mudbray",
+    "stage": 1,
+    "lineup": "tentacool",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Mudsdale",
+    "stage": 2,
+    "lineup": "Mudbray",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Tauros",
+    "stage": 1,
+    "lineup": "cottonee",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Miltank",
+    "stage": 1,
+    "lineup": "Miltank",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Phanpy",
+    "stage": 1,
+    "lineup": "Phanpy",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Donphan",
+    "stage": 2,
+    "lineup": "Phanpy",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Spoink",
+    "stage": 0,
+    "lineup": "Spoink",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Grumpig",
+    "stage": 1,
+    "lineup": "Spoink",
+    "cat": "omni",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Kangaskhan",
+    "stage": 1,
+    "lineup": "Kangaskhan",
+    "cat": "omni",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Aron",
+    "stage": 1,
+    "lineup": "Aron",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Lairon",
+    "stage": 2,
+    "lineup": "Aron",
+    "cat": "omni",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Aggron",
+    "stage": 3,
+    "lineup": "Aron",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Hippopotas",
+    "stage": 1,
+    "lineup": "Hippopotas",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Hippowdon",
+    "stage": 2,
+    "lineup": "Hippopotas",
+    "cat": "omni",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Gligar",
+    "stage": 1,
+    "lineup": "Gligar",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Gliscor",
+    "stage": 2,
+    "lineup": "Gligar",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Sentret",
+    "stage": 0,
+    "lineup": "Sentret",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Furret",
+    "stage": 1,
+    "lineup": "Sentret",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Marill",
+    "stage": 1,
+    "lineup": "marill",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Azumarill",
+    "stage": 2,
+    "lineup": "Marill",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Pachirisu",
+    "stage": 1,
+    "lineup": "Pachirisu",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Drilbur",
+    "stage": 1,
+    "lineup": "Drilbur",
+    "cat": "omni",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Excadrill",
+    "stage": 2,
+    "lineup": "Drilbur",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Minccino",
+    "stage": 1,
+    "lineup": "Minccino",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Cinccino",
+    "stage": 2,
+    "lineup": "Minccino",
+    "cat": "omni",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Emolga",
+    "stage": 1,
+    "lineup": "Emolga",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Ekans",
+    "stage": 1,
+    "lineup": "Ekans",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Arbok",
+    "stage": 2,
+    "lineup": "Ekans",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Onix",
+    "stage": 1,
+    "lineup": "Onix",
+    "cat": "omni",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Steelix",
+    "stage": 2,
+    "lineup": "Onix",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Kecleon",
+    "stage": 1,
+    "lineup": "Kecleon",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Wooper",
+    "stage": 0,
+    "lineup": "Wooper",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Quagsire",
+    "stage": 1,
+    "lineup": "Wooper",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Poliwag",
+    "stage": 0,
+    "lineup": "Poliwag",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Poliwhirl",
+    "stage": 1,
+    "lineup": "Poliwag",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Politoed",
+    "stage": 2,
+    "lineup": "Poliwag",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Croagunk",
+    "stage": 1,
+    "lineup": "Croagunk",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Toxicroak",
+    "stage": 2,
+    "lineup": "Croagunk",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Torkoal",
+    "stage": 1,
+    "lineup": "Torkoal",
+    "cat": "omni",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Turtonator",
+    "stage": 1,
+    "lineup": "Turtonator",
+    "cat": "predator",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Axew",
+    "stage": 1,
+    "lineup": "Axew",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Fraxure",
+    "stage": 2,
+    "lineup": "Axew",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Haxorus",
+    "stage": 3,
+    "lineup": "Axew",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Slugma",
+    "stage": 0,
+    "lineup": "quagsire",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Magcargo",
+    "stage": 1,
+    "lineup": "Slugma",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Purrloin",
+    "stage": 1,
+    "lineup": "Purrloin",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Liepard",
+    "stage": 2,
+    "lineup": "Purrloin",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Skitty",
+    "stage": 0,
+    "lineup": "Skitty",
+    "cat": "omni",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Delcatty",
+    "stage": 1,
+    "lineup": "Skitty",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Shinx",
+    "stage": 1,
+    "lineup": "Shinx",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Luxio",
+    "stage": 2,
+    "lineup": "Shinx",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Luxray",
+    "stage": 3,
+    "lineup": "Shinx",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Bidoof",
+    "stage": 0,
+    "lineup": "Bidoof",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Bibarel",
+    "stage": 1,
+    "lineup": "Bidoof",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Slowpoke",
+    "stage": 1,
+    "lineup": "Slowpoke",
+    "cat": "omni",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Slowbro",
+    "stage": 2,
+    "lineup": "Slowpoke",
+    "cat": "omni",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Slowking",
+    "stage": 2,
+    "lineup": "Slowpoke",
+    "cat": "omni",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Zangoose",
+    "stage": 1,
+    "lineup": "Zangoose",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Cubone",
+    "stage": 0,
+    "lineup": "Cubone",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Marowak",
+    "stage": 2,
+    "lineup": "Cubone",
+    "cat": "omni",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Absol",
+    "stage": 1,
+    "lineup": "Absol",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Patrat",
+    "stage": 0,
+    "lineup": "Patrat",
+    "cat": "prey",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Watchog",
+    "stage": 1,
+    "lineup": "Patrat",
+    "cat": "omni",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Stufful",
+    "stage": 1,
+    "lineup": "Stufful",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Teddiursa",
+    "stage": 2,
+    "lineup": "Teddiursa",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Ursaring",
+    "stage": 2,
+    "lineup": "Teddiursa",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Bewear",
+    "stage": 2,
+    "lineup": "Bewear",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Poochyena",
+    "stage": 0,
+    "lineup": "Poochyena",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Vulpix",
+    "stage": 1,
+    "lineup": "Vulpix",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Ninetales",
+    "stage": 2,
+    "lineup": "Vulpix",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Growlithe",
+    "stage": 1,
+    "lineup": "Growlithe",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Arcanine",
+    "stage": 2,
+    "lineup": "Growlithe",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Mightyena",
+    "stage": 1,
+    "lineup": "Mightyena",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Zorua",
+    "stage": 0,
+    "lineup": "Zorua",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Zoroark",
+    "stage": 1,
+    "lineup": "Zorua",
+    "cat": "predator",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Rockruff",
+    "stage": 0,
+    "lineup": "Rockruff",
+    "cat": "omni",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Lycanroc",
+    "stage": 1,
+    "lineup": "Rockruff",
+    "cat": "predator",
+    "habitat": "field"
+  },
+  {
+    "pkmn": "Seel",
+    "stage": 1,
+    "lineup": "Seel",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Dewgong",
+    "stage": 2,
+    "lineup": "Seel",
+    "cat": "omni",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Lapras",
+    "stage": 1,
+    "lineup": "Lapras",
+    "cat": "prey",
+    "habitat": "water"
+  },
+  {
+    "pkmn": "Mankey",
+    "stage": 0,
+    "lineup": "Mankey",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Primeape",
+    "stage": 1,
+    "lineup": "Mankey",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Aipom",
+    "stage": 0,
+    "lineup": "Aipom",
+    "cat": "prey",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Oranguru",
+    "stage": 1,
+    "lineup": "Oranguru",
+    "cat": "omni",
+    "habitat": "forest"
+  },
+  {
+    "pkmn": "Passimian",
+    "stage": 1,
+    "lineup": "Passimian",
+    "cat": "omni",
+    "habitat": "forest"
+  }
+]
