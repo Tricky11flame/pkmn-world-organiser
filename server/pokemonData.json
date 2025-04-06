@@ -1,7 +1,7 @@
 [
   {
     "pkmn": "Venonat",
-    "stage": 1,
+    "stage": 0,
     "lineup": "Venonat",
     "cat": "omni",
     "habitat": "forest"
@@ -171,8 +171,8 @@
     "pkmn": "Exeggcute",
     "stage": 0,
     "lineup": "Exeggcute",
-    "cat": "prey",
-    "habitat": "field"
+    "cat": "omni",
+    "habitat": "forest"
   },
   {
     "pkmn": "Exeggutor",

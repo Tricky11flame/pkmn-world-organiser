@@ -10,6 +10,9 @@ This is a fun little project I wanted to make.
 
 I was trying to come up with a "Pokémon" region of my own. I wanted to manage about 100 Pokémon from the list of 1000. I made a tool that helped me edit properties that I have defined myself. This tool also helps me filter based on these properties while running the whole project with a single command. used concurrently for it 😭😭
 
+### Project Demo 
+[![Crazy Demo!](https://archives.bulbagarden.net/media/upload/thumb/7/7e/BMGf_bulb.png/105px-BMGf_bulb.png)](https://youtu.be/JGhiGZmF6Ig)
+
 ### Project Details
 
 It takes a collection of Pokémon data in the form of JSON (JSON is in the backend).
